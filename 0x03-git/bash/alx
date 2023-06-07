@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "ALX Shcool is so cool"
+
+echo "Alx Shcool is so cool"
+=======
+echo "Alx School"
+
